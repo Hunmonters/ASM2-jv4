@@ -1,7 +1,7 @@
 # 🎬 ASM Vue - Website Giải Trí Trực Tuyến
 
 ## 📌 Giới thiệu
-Dự án này là **bài tập ASM** được phát triển bằng **Vue.js** theo yêu cầu của môn học, với nội dung xây dựng một **trang web giải trí** cho phép:
+Dự án này là **bài tập ASM** được phát triển bằng **java4** theo yêu cầu của môn học, với nội dung xây dựng một **trang web giải trí** cho phép:
 - Xem video được **nhúng từ YouTube**.
 - Người dùng có thể **đăng nhập** (Authentication).
 - Phân quyền **User** và **Admin**.
@@ -29,11 +29,11 @@ Dự án này là **bài tập ASM** được phát triển bằng **Vue.js** th
 ---
 
 ## 💻 Công nghệ sử dụng
-- **Frontend:** Vue.js (Vite)
+- **Frontend:** Eclipse **
 - **UI:**  CSS 
 - **Authentication:** Session Storage / Local Storage
-- **Video:** Nhúng YouTube iframe
-- **Quản lý dữ liệu:** JSON giả lập hoặc API backend (tùy triển khai)
+- **Video:** Nhúng YouTube ID
+
 
 ---
 
